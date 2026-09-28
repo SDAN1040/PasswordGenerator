@@ -1,0 +1,8 @@
+{
+    "uppercase_ratio": 0.2,
+    "lowercase_ratio": 0.4,
+    "digits_ratio": 0.3,
+    "symbols_ratio": 0.1,
+    "slider_min": 8,
+    "slider_max": 32
+}
